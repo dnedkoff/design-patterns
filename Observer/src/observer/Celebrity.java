@@ -1,4 +1,4 @@
-package fmi;
+package observer;
 
 import java.util.ArrayList;
 

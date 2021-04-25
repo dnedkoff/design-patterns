@@ -1,4 +1,4 @@
-package fmi;
+package observer;
 
 public class Follower implements Observer {
 	
